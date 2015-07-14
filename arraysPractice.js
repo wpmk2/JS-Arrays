@@ -255,7 +255,7 @@ var user1 = {
 //Your Code Here
 
 /*Now you have a very common data structure. Twitter is a good use case.
-It's easy to imagine that your followers list on Twitter is an Array full or objects
+It's easy to imagine that your followers list on Twitter is an Array full of objects
 and those objects contain properties about the specific person you follow.*/
 
 /*Now let's say that Tyler decided to delete his account. Loop through your array of
