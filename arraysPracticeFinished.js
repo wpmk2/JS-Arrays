@@ -172,6 +172,10 @@ var reverse = function(str) {
 
 reverse(str);
 
+var reverse = function(str) {
+  return str.split("").reverse().join("");
+}
+
 //Next Problem
 
 
